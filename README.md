@@ -112,7 +112,7 @@ JWT_EXPIRES_IN=90d
 
 ## 🙋‍♂️ Author
 
-**Sourav Kumar**  
+**Aditya Raj**  
 - [LinkedIn](https://www.linkedin.com/in/aditya-raj-18b569312)  
 - [GitHub](https://github.com/adityyasinha)  
 - 📧 it.adityasinha2701@gmail.com
